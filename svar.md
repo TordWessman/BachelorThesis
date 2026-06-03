@@ -2,7 +2,7 @@
 > Ja, absolut. Det är gammalt, men om någon vill ta vid, så är det bara att sloppa fram det till det senaste, heta
 
 2. Du säger att blockchain passar för nischade IoT-applikationer. Kan du ge ett konkret verkligt exempel?
-> Diskuterar detta, men t ex väderstationer 
+> Diskuterar detta, men t ex väderstationer, seismisk eller hydrologisk amatörövervakning. Vattennivå i en älv, markrörelser i ett rasbenäget område, enkla seismometrar. Medborgarinsamlad data (citizen science). Pollenhalter, vattenkvalitet i en sjö, fågelräkning etc.
 
 3. Du skriver själv i appendix att Avalanches höga felfrekvens berodde på din egen kod, hur kan du då dra slutsatser om Avalanches prestanda?
 
