@@ -11,7 +11,8 @@
   - det ledde till ett följdfel. Min transaktion var i själva verket köad och mitt nonce baserades (hämtades) från den senaste noncen. Då fick två transaktioner samma "nummer", varför den senare blev reject:ad. Fallback för att öka nonce hade varit behändigt 
 
 4. Två veckor är en kort mätperiod, tycker du själv att det räcker för att dra trovärdiga slutsatser?
-> Nej, en bättre helhetsbild hade givetvis varit en betydligt längre mätperiod (ett år). Anledningen var f a pga praktiska begränsningar. Detta är en svaghet, då empirin blir väldigt bristfällig.
+> Nej, en bättre helhetsbild hade givetvis varit en betydligt längre mätperiod (ett år). Därför jag medvetet undviker att rangordna dem. Jag menar att de går att verifiera, inte replikera. Styrkan ligger mer i att de skett över tid och att förändringar uppmärksammats. Dock inga trender.
+Anledningen var f a pga praktiska begränsningar. Detta är en svaghet, då empirin blir väldigt bristfällig. 
 
 5. Om du fick göra om arbetet, vad hade du gjort annorlunda?
 > Längre mätperioder, bättre felhantering. Möjlighet att "tippa" för att kunna hantera congestion för att få mina transaktioner godkända (fallet Avalanche, troligtvis).
