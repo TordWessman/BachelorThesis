@@ -272,6 +272,7 @@ Nu presenteras vad som faktiskt mättes (och inte mättes).
 > - Framtidsspaning: i takt med att konsensusalgoritmer blir effektivare lär kostnaderna fortsätta falla — och multi-chain-design rekommenderas för att inte låsa sig vid en enda kedja.
 > - Koden och transaktionsdatabaserna ligger på GitHub (github.com/TordWessman/BachelorThesis) om någon vill granska.
 
+Personligen, så anser jag att omogenheten är det största problemet. Ett system som inte går att lita på och som saknar ansvarsutkrävande är i praktiken omöjligt att förlita sig på.
 ---
 
 ## Tips för framförandet
