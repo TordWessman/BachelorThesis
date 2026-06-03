@@ -1,0 +1,20 @@
+# install KiCad (9_0 release can't be installed. my OS is probably not up to date)
+$ sudo add-apt-repository ppa:kicad/kicad-8.0-releases
+$ sudo apt update
+$ sudo apt install kicad
+$ sudo apt install kicad-symbols
+$ sudo apt install kicad-footprints kicad-templates kicad-packages3d
+
+# Import library according to: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
+Download https://github.com/espressif/kicad-libraries/releases/latest/download/espressif-kicad-addon.zip
+* In Kicad, Open "Plugins and Content Manager"
+* Install from file ...
+* Select "spressif-kicad-addon.zip"
+Local search path: /home/<user name>/.local/share/kicad/8.0/3rdparty/
+
+# Python, skidl integration
+
+$ export KICAD_SYMBOL_DIR=/usr/share/kicad/library
+$ export KICAD8_SYMBOL_DIR=/usr/share/kicad/library
+# install skidl
+$ pip3 install skidl
