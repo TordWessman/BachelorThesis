@@ -1,5 +1,0 @@
-WARNING: KICAD6_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/home/olga/Dropbox/Documents/ex-jobb-2/BachelorThesis/schematics/<frozen importlib._bootstrap_external>:848=>/home/olga/Dropbox/Documents/ex-jobb-2/BachelorThesis/schematics/<frozen importlib._bootstrap>:219]
-WARNING: KICAD7_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/home/olga/Dropbox/Documents/ex-jobb-2/BachelorThesis/schematics/<frozen importlib._bootstrap_external>:848=>/home/olga/Dropbox/Documents/ex-jobb-2/BachelorThesis/schematics/<frozen importlib._bootstrap>:219]
-ERROR: Can't open file: MCU_Espressif.
- @ [/home/olga/Dropbox/Documents/ex-jobb-2/BachelorThesis/schematics/moist_schematics.py:7]
-WARNING: Could not load KiCad schematic library "MCU_Espressif", falling back to backup library. @ [/home/olga/Dropbox/Documents/ex-jobb-2/BachelorThesis/schematics/moist_schematics.py:7]
